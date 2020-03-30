@@ -1,6 +1,14 @@
 # coronavirus.ideb.tech
 Página web sobre la propagación del coronavirus en el Perú
 ****************************************************************************************************************************
+Servicios usados en este sistema:
+*API de JavaScript de Google Maps (https://developers.google.com/maps/documentation/javascript/datalayer?hl=es&fbclid=IwAR1PU2PuQdLNBqdx0qdOWtwf7F7cqh_rF_o259ckkE7AJxFqMo1YI9z1oEQ)
+*Boostrap
+*Charts.js
+
+
+
+****************************************************************************************************************************
 Requisitos para el sistema:
 *Sistema operativo base Linux
 *Un servidor web que pueda ejecutar php7.2 o superior
