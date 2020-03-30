@@ -1,5 +1,9 @@
 # coronavirus.ideb.tech
 Página web sobre la propagación del coronavirus en el Perú
+***************************************************************************************************************************
+Es importante tener un API Key de Javascript Maps de Google y reemplazarlo en el archivo index.php
+
+
 ****************************************************************************************************************************
 Servicios usados en este sistema:
 *API de JavaScript de Google Maps (https://developers.google.com/maps/documentation/javascript/datalayer?hl=es&fbclid=IwAR1PU2PuQdLNBqdx0qdOWtwf7F7cqh_rF_o259ckkE7AJxFqMo1YI9z1oEQ)
